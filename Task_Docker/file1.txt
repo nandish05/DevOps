@@ -1,0 +1,5 @@
+Hello
+
+docker intalled in this machine and explored docker commands 
+docker image pulled from docker hub - Hello world application
+containerised the apllication and ran and output attched 
